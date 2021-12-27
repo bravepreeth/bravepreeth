@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bravepreeth
+- 👋 Hi, I’m Preeth
 - 👀 I’m interested in WEB 3.O
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on Web development projects 
